@@ -11,5 +11,6 @@ This repo contains Assignments solutions for the machine-learning course in facu
     - jupyter
     - pandas
 
-### Team partener:
+### Team parteners:
   -Ahmed Sayed Mansour
+  -Ibrahim Ramadan
