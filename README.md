@@ -10,7 +10,10 @@ This repo contains Assignments solutions for the machine-learning course in facu
     - matplotlib
     - jupyter
     - pandas
-## Assignment content:
+    - TensorFlow
+    - Keras
+    
+## Assignments content:
     
     * Assignment 1 : Linear regression and Logestic regression (With out using any libraries)
     * Assognment 2 : Suport vector machine(SVM) & Decsion tree (With out using any libraries)
